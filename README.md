@@ -1,7 +1,7 @@
 ### Hi，look there 👋
 
 - 👑 My name is XianYu Huang, just aka 👑
-- 🔭 I’m currently studying font-end by myself.
+- 🔭 I’m currently studying front-end by myself.
 - 💬 If you have any questions. Please ask me by 🐧1969574105.
 - 📫 How to reach me: 🐧1969574105 📞17749971890
 
